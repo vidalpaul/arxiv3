@@ -1,0 +1,1 @@
+Archive of smart contracts exercises, with Solidity and Foundry
